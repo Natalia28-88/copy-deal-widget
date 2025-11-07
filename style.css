@@ -1,0 +1,12 @@
+.widget-message {
+  padding: 10px;
+  background-color: #e0ffe0;
+  border: 1px solid #00aa00;
+  border-radius: 4px;
+}
+.widget-error {
+  padding: 10px;
+  background-color: #ffe0e0;
+  border: 1px solid #aa0000;
+  border-radius: 4px;
+}

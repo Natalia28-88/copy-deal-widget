@@ -1,0 +1,7 @@
+{
+  "widget": {
+    "name": "Copy Deal",
+    "short_description": "Widget to copy a deal",
+    "description": "Widget for creating a full copy of a deal"
+  }
+}
